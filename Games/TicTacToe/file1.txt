@@ -1,1 +1,3 @@
 use python3 command to run this game
+this is update 2
+
